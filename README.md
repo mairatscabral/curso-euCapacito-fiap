@@ -31,10 +31,10 @@ Repositório destinado à organização dos meus estudos e materiais do curso **
 - [x] Aula 1 – Processo seletivo  
 - [x] Aula 2 – Currículo  
 - [x] Aula 3 – Dinâmica de grupo  
-- [ ] Aula 4 – Entrevistas  
-- [ ] Aula 5 – Dê as melhores respostas  
-- [ ] Aula 6 – Encerramento  
-- [ ] ✅ Teste de conhecimento
+- [x] Aula 4 – Entrevistas  
+- [x] Aula 5 – Dê as melhores respostas  
+- [x] Aula 6 – Encerramento  
+- [x] ✅ Teste de conhecimento
 
 ### 💸 Finanças Pessoais
 - [ ] Aula 1 a 8 (Introdução, Receitas, Despesas, Orçamento, Dívida, Investimentos...)  
