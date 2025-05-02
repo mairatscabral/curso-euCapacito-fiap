@@ -48,7 +48,7 @@ Repositório destinado à organização dos meus estudos e materiais do curso **
 - [x] ✅ Teste de conhecimento - Liderança Pessoal - Finanças Pessoais
 
 ### 🌟 Marca Pessoal
-- [ ] Aula 1 – Construção da identidade social  
+- [x] Aula 1 – Construção da identidade social  
 - [ ] Aula 2 – Marca pessoal  
 - [ ] Aula 3 – Reputação  
 - [ ] Aula 4 – Identidade da marca  
