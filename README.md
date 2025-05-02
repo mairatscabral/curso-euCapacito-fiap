@@ -37,15 +37,15 @@ Repositório destinado à organização dos meus estudos e materiais do curso **
 - [x] ✅ Teste de conhecimento
 
 ### 💸 Finanças Pessoais
-- [ ] Aula 1 - Introdução
-- [ ] Aula 2 – Receitas
-- [ ] Aula 3 – Despesas  
-- [ ] Aula 4 – Orçamento
-- [ ] Aula 5 – Segundo olhar sobre orçamento
-- [ ] Aula 6 – Dívida
-- [ ] Aula 7 – Investimentos
-- [ ] Aula 8 - Encerramento
-- [ ] ✅ Teste de conhecimento - Liderança Pessoal - Finanças Pessoais
+- [x] Aula 1 - Introdução
+- [x] Aula 2 – Receitas
+- [x] Aula 3 – Despesas  
+- [x] Aula 4 – Orçamento
+- [x] Aula 5 – Segundo olhar sobre orçamento
+- [x] Aula 6 – Dívida
+- [x] Aula 7 – Investimentos
+- [x] Aula 8 - Encerramento
+- [x] ✅ Teste de conhecimento - Liderança Pessoal - Finanças Pessoais
 
 ### 🌟 Marca Pessoal
 - [ ] Aula 1 – Construção da identidade social  
